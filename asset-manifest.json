@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile-pg/static/css/main.6b651e11.css",
+    "main.js": "/profile-pg/static/js/main.aa8c3293.js",
+    "static/js/787.4b1552e3.chunk.js": "/profile-pg/static/js/787.4b1552e3.chunk.js",
+    "static/media/triangles-g80db29d32_1920.png": "/profile-pg/static/media/triangles-g80db29d32_1920.1c4de3666f52de857f8a.png",
+    "index.html": "/profile-pg/index.html",
+    "main.6b651e11.css.map": "/profile-pg/static/css/main.6b651e11.css.map",
+    "main.aa8c3293.js.map": "/profile-pg/static/js/main.aa8c3293.js.map",
+    "787.4b1552e3.chunk.js.map": "/profile-pg/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b651e11.css",
+    "static/js/main.aa8c3293.js"
+  ]
+}
